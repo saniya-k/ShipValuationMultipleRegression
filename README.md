@@ -12,14 +12,4 @@ Some initial findings:
 
 3. Baltic-dry capesize index values in-creased by approximately by 169% in the given time frame. Although we knew that this cannot be the sole criteria determin-ing the ship price, it had to be one of the key factors. We considered two sets of ships to verify the relation of capesize index with ship price keeping other vari-ables like age and DWT almost similar.  Analysis indicated that similar ships were sold for more if the capesize index value was more.
 
- 
-Exhibit A
 
- 
-Exhibit  B 
-
-
- 
- Exhibit C
-  
-Exhibit D
